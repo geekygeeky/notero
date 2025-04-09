@@ -1,25 +1,35 @@
-# Notero – Capture. Focus. Achieve
+# 🎨 Figfolio – Your Design Profile, All in One Place
 
-Notero is a sleek, all-in-one productivity tool that helps you take notes, manage tasks, and stay focused using the Pomodoro technique. Whether you're brainstorming ideas, organizing your to-dos, or tackling deep work sessions, Notero keeps you in the flow.
+**Figfolio** is a sleek, central hub for designers to showcase their work, share their Figma activity, and connect their creative identity. Whether you're a freelancer, product designer, or design enthusiast — Figfolio helps you build your design presence effortlessly.
 
-[![🔗 Visit Website](https://img.shields.io/badge/Visit%20Website-F3D468?style=for-the-badge&logo=link&logoColor=black)](https://notero.vercel.app)
+---
 
+[![🔗 Visit Website](https://img.shields.io/badge/Visit%20Website-F3D468?style=for-the-badge&logo=link&logoColor=black)](https://figfolio.vercel.app)
 
+---
 
-> Smart Note-Taking, Task Management & Pomodoro App
+## 🎙️ Pronunciation
 
-## Pronunciation
+**Figfolio** is pronounced _Fig-foh-lee-oh_ (like "portfolio" but for Figma).
 
-**Notero** is pronounced as **"No-TEH-ro"** (rhymes with "hero").
+---
 
-## 🔹Features
+## 💡 What is Figfolio?
 
-✅ Minimalist & intuitive note-taking
+A modern portfolio built for the Figma generation.
 
-✅ Smart task management with priorities
+**Figfolio** lets you:
+- Showcase your design bio
+- Sync your latest Figma files and stats
+- Add links to your social profiles
+- Share your creative journey in one place
 
-✅ Built-in Pomodoro timer ⏳ for deep focus and work sessions
+---
 
-✅ Fully web-based and cross-platform
+## ✨ Features
 
-✅ Seamless and intuitive user experience
+✅ Designer-friendly bio section  
+✅ Link your Dribbble, Behance, Twitter, and more  
+✅ Figma integration: show your public files and stats  
+✅ Clean, minimal design made for showcasing your work  
+✅ Fully web-based and mobile-friendly  
