@@ -1,6 +1,7 @@
 # 🎨 Figfolio – Your Design Profile, All in One Place
 
-**Figfolio** is a sleek, central hub for designers to showcase their work, share their Figma activity, and connect their creative identity. Whether you're a freelancer, product designer, or design enthusiast — Figfolio helps you build your design presence effortlessly.
+**Figfolio** is a sleek, central hub for product designers to showcase their work, share their Figma activity, and connect their creative identity. 
+> Whether you're a freelancer, product designer, or design enthusiast — Figfolio helps you build your design presence effortlessly.
 
 ---
 
